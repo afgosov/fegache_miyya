@@ -1,0 +1,8 @@
+# Obsidian shaxsiy oyna holati
+.obsidian/workspace*.json
+.trash/
+# Video ish papkalari
+node_modules/
+work/
+*.tmp
+*.bak-*
